@@ -10,255 +10,137 @@ sidebar:
     # Profile information
     name: Deniz YAVUZ
     tagline: Senior Software Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: deniz.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: dyavuz@hotmail.com.tr
     phone: 0541 8260159
-    timezone: America/Cancun Timezone
+    timezone: GMT+03:00
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    website:  #do not add http://
     linkedin: https://www.linkedin.com/in/deniz-yavuz-59567632/
-    xing: alandoe
+    xing: 
     github: dyavuz37
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@denzyvz'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: Diller
       info:
+        - idiom: Türkçe
+          level: Anadil
+
         - idiom: English
-          level: Native
+          level: intermediate
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+   
 
     interests:
-      title: Interests
+      title: Hobiler
       info:
-        - item: Climbing
+        - item:  
           link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+   2008 yılında Selçuk üniversitesi bilgisayar mühendisliğinden mezun oldum. askerlik görevimi 3. kol ordu muhabere alayında yedek subay olarak yaptım.
+  2012 yılında lemma yazılımda yazılım geliştirme uzman yardımcısı olarak görevime başladım.Avrupa holding bünyesinde araç parça ,tedarik servis ağı 
+  ve sigorta hasar sonrası işlemeleri için geliştirilmiş 8 projede destek ve geliştirme süreçlerinde yer aldım.2015 yılında limango bünyesinde ve daha sonra arvato ile hızla büyüyen
+  ogli e-solitions(daha sonra Arvato SCS) firmasında sistem geliştirme uzmanı olarak ,türkiyenin önde gelen firmaları için depolama paketleme ve kargolama süreçleri 
+  yönetimi için yazılım geliştirme süreçlerinde görev aldım.2016 yılında EDMAR yazılım firmasında denizcilik firmalarına çözümler sunmak içinn  Yazılım geliştirme uzmanı olarak görev aldım,
+  2020 yınında Arvato SCS sistem geliştirme uzmanı olarak tekrar çalışmaya başladım 2021 yılında 365 teknoloji bünyesinde halen Senior software developer olarak görev almaktayım
 education:
-    title: Education
+    title: Eğitim
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Bilgisayar Mühendisliği
+        university:  Selcuk University, Faculty of Engineering
+        time: 2001 – 2008
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        Selçuk üniversitesinde %30 ingilizce Bilgisayar mühendisliğinden Mezun oldum
+
 
 experiences:
-    title: Experiences
+    title: Deneyimler
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: - Senior Software Developer, 
+        time: 2021 - Halen
+        company: 365 Technology 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        Global çapta Satın alma ve tedarik süreçleri için Denizcilik sektörüne özel tedarik, teslimat , gemi stok yönetimi ,Müşteri ve tadarikçi anlaşma takibi
+        ,müşteri memnuniyeti takibi gibi modülleri içeren operasyona özel bir uygulama geliştirmekteyim
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+      - role: System Development Specialist
+        time: 2020 - 2021
+        company:  Arvato scs
+        details: |
+        Arvato, tedarik zinciri çözümleri için geliştirilen uygulamalarında entegrasyonlar konusunda görev aldım. 
+        Türkiyenin önde gelen firmalarından Türkcell ,FLO ,instreet,IKEA gibi firmlar için geliştirilen entegrasyonlar ve çzömümler geliştirdim 
+     
+      - role: Software Developer
+        time: 2015 - 2017
+        company: EDMAR Software Hardware and Consulting Service 
+        details: |
+          Denizcilik Sektörü için geliştirilmiş uygulamalar geliştiren bu firmada ,Roro Yönetim uygulaması 
+          ,TUBITAK-TEYDEP PROJECT- 7151232 Rota optimizasyonu ve EDMAR SOFT gemi yönetim uygulaması için modüller geliştirmekte görev aldım
+         
 
 projects:
-    title: Projects
+    title: Projeler
     intro: >
       You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: AVS Global Ship Supply Purchase-Sales Cloud Application
+        link: "https://avssoft.avsglobalsupply.com/"
+        tagline: " Global çapta Satın alma ve tedarik süreçleri için Denizcilik sektörüne özel tedarik, teslimat , gemi stok yönetimi ,Müşteri ve tadarikçi anlaşma takibi
+        ,müşteri memnuniyeti takibi gibi modülleri içeren operasyona özel bir uygulama"
 
-      - title: DevStudio
+      - title: Slot 
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Arvato depo yönetim yazılımı"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Cbox
+        link: "https://apps.homerservisler.com/cboxHld/"
+        tagline: "Sigortacılık firmaları için geliştirilmiş hasar sonrası süreçlerin yönetildiği bir uygulamadır "
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: pbox
+        link: "apps.homerservisler.com/pbox"
+        tagline: "Parça tedarik süreçlerinin eliştirilmesi için yapılmış uygulamadır"
 
-      - title: Delta
+      - title: TUBITAK-TEYDEP PROJECT- 7151232 Route Optimization 
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "Gemilerin rota optimizasyonu için geliştirilmiş Yakıt yada zaman tasaruffu için optimize edilmiş rotalar sunana bir uygulamadır"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: C# .net Core
+        level: 90%  
+
+      - name: Javascript , jQuery, Ajax
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: SQL
+        level: 90%
+
+      - name: React
+        level: 70%
 
       - name: Angular
-        level: 98%
+        level: 50%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: JAVA
         level: 60%
 
 footer: >
