@@ -91,7 +91,11 @@ experiences:
         details: |
           Denizcilik Sektörü için geliştirilmiş uygulamalar geliştiren bu firmada ,Roro Yönetim uygulaması 
           ,TUBITAK-TEYDEP PROJECT- 7151232 Rota optimizasyonu ve EDMAR SOFT gemi yönetim uygulaması için modüller geliştirmekte görev aldım
-         
+    
+    
+certifications:
+      title: Certifications
+      list:    
 
 projects:
     title: Projeler
@@ -120,6 +124,14 @@ projects:
       - title: TUBITAK-TEYDEP PROJECT- 7151232 Route Optimization 
         link: "#"
         tagline: "Gemilerin rota optimizasyonu için geliştirilmiş Yakıt yada zaman tasaruffu için optimize edilmiş rotalar sunana bir uygulamadır"
+oss:
+    title: OSS Contributions
+    intro: >
+
+   publications:
+    title: Publications
+    intro: |
+
 
 skills:
     title: Skills &amp; Proficiency
@@ -140,8 +152,7 @@ skills:
       - name: Angular
         level: 50%
 
-      - name: JAVA
-        level: 60%
+    
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
